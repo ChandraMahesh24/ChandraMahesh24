@@ -1,3 +1,5 @@
+![logo](https://img.freepik.com/premium-photo/binary-code-ict-information-telecommunication-technology-iot-internet-things-concepts_161452-917.jpg?w=2000)
+
 ### Hi there 👋
 
 <!--
@@ -16,7 +18,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mahesh Chandra</h1>
 <h3 align="center"style="color: rgb(9, 9, 114)">
-  A computer science student with a passion for coding and
+  I'm a Mahesh Chandra, a computer science student with a passion for coding and
   technology. I'm constantly learning new programming languages and techniques,
   and I love to work on projects that challenge me to think creatively. My goal
   is to use my skills to create innovative and impactful solutions. In my free
