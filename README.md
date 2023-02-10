@@ -87,7 +87,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a
-    href="https://linkedin.com/in/https://www.linkedin.com/in/mahesh-chandra-8433121a5"
+    href="https://in.linkedin.com/in/mahesh-chandra-8433121a5"
     target="blank"
     ><img
       align="center"
