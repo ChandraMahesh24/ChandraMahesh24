@@ -1,24 +1,8 @@
-![logo](https://img.freepik.com/premium-photo/binary-code-ict-information-telecommunication-technology-iot-internet-things-concepts_161452-917.jpg?w=2000)
+![logo](https://plus.unsplash.com/premium_photo-1661963874418-df1110ee39c1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=786&q=80)
 
-### Hi there 👋
-
-<!--
-**ChandraMahesh24/ChandraMahesh24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Mahesh Chandra</h1>
 <h3 align="center"style="color: rgb(9, 9, 114)">
-  I'm a Mahesh Chandra, a computer science student with a passion for coding and
+ A computer science student with a passion for coding and
   technology. I'm constantly learning new programming languages and techniques,
   and I love to work on projects that challenge me to think creatively. My goal
   is to use my skills to create innovative and impactful solutions. In my free
