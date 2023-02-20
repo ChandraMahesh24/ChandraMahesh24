@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Mahesh Chandra</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mahesh+Chandra;+Welcome+to+My+Profile!;Always+learning+new+things+;)](https://git.io/typing-svg)
 <h3 align="center"style="color: rgb(9, 9, 114)">
  A computer science student with a passion for coding and
   technology. I'm constantly learning new programming languages and techniques,
