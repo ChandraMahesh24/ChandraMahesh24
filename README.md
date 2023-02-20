@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/graphs/contributors"><img src="https://img.shields.io/github/contributors/ChandraMahesh24/ChandraMahesh24?color=blue"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/stargazers"><img src="https://img.shields.io/github/stars/ChandraMahesh24/ChandraMahesh24.svg?logo=github"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/network/members"><img src="https://img.shields.io/github/forks/ChandraMahesh24/ChandraMahesh24.svg?color=blue&logo=github"></a>
 <img
