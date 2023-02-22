@@ -1,8 +1,9 @@
+ <a <img src="https://cdn.pixabay.com/photo/2019/07/11/07/20/industry-4330186_960_720.jpg" height="300" width="1000" ></a>
 <p align="center">
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/graphs/contributors"><img src="https://img.shields.io/github/contributors/ChandraMahesh24/ChandraMahesh24?color=blue"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/stargazers"><img src="https://img.shields.io/github/stars/ChandraMahesh24/ChandraMahesh24.svg?logo=github"></a>
-    <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/network/members"><img src="https://img.shields.io/github/forks/ChandraMahesh24/ChandraMahesh24.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/network/members"><img src="https://img.shields.io/github/forks/ChandraMahesh24/ChandraMahesh24.svg?color=blue&logo=github"></a>   
 <img
     src="https://komarev.com/ghpvc/?username=chandramahesh24&label=Profile%20views&color=0e75b6&style=flat"
     alt="chandramahesh24"</p>
