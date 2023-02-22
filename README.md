@@ -1,4 +1,4 @@
- <a <img src="https://cdn.pixabay.com/photo/2019/07/11/07/20/industry-4330186_960_720.jpg" height="300" width="1000" ></a>
+  <img src="https://cdn.pixabay.com/photo/2019/07/11/07/20/industry-4330186_960_720.jpg" height="300" width="1000" >
 <p align="center">
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/graphs/contributors"><img src="https://img.shields.io/github/contributors/ChandraMahesh24/ChandraMahesh24?color=blue"></a>
