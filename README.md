@@ -106,4 +106,4 @@
     alt="chandramahesh24"
   />
 </p>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=%3Cstyle%3E+++%40import+url('https%3A%2F%2Ffonts.googleapis.com%2Fcss2%3Ffamily%3DBellota%2BText%3Awght%40300;400;700%26family%3DBlack%2BOps%2BOne%26family%3DIBM%2BPlex%2BSans%3Awght%40400;500;600;700%26family%3DKdam%2BThmor%2BPro%26family%3DMonoton%26family%3DRoboto%3Awght%40300;400;700%26family%3DStick%2BNo%2BBills%26display%3Dswap');+%3C%2Fstyle%3E&size=25&pause=1000&color=9A1874&width=438&height=57&lines=Thank+you+for+visiting+my+profile" alt="Typing SVG"</a>
