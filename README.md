@@ -1,4 +1,4 @@
-  <img src="https://www.niet.co.in/blog/wp-content/uploads/2020/09/robotics_Blog-1.jpg" height="300" width="1000" >
+  <img src="https://images.unsplash.com/photo-1488229297570-58520851e868?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=869&q=80" height="400" width="1000" >
 <p align="center">
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/ChandraMahesh24/ChandraMahesh24/graphs/contributors"><img src="https://img.shields.io/github/contributors/ChandraMahesh24/ChandraMahesh24?color=blue"></a>
