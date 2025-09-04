@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://rishihood.edu.in/wp-content/uploads/2022/03/Blog-Cover-3-1.jpg" width="900" height="900" alt="banner" />
+  <img src="https://rishihood.edu.in/wp-content/uploads/2022/03/Blog-Cover-3-1.jpg" width="1400" height="900" alt="banner" />
 </p>
 
 <!-- Badges & Typing Animation -->
