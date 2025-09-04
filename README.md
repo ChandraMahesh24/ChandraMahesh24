@@ -82,9 +82,8 @@ I’m an <b>AI and Computer Vision Engineer</b> passionate about turning ideas i
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=chandramahesh24&theme=react-dark&area=true" alt="GitHub Activity Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=chandramahesh24&theme=react-dark&area=true)
+
 
 ---
 
