@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://rishihood.edu.in/wp-content/uploads/2022/03/Blog-Cover-3-1.jpg" width="1000" alt="banner" />
+  <img src="https://rishihood.edu.in/wp-content/uploads/2022/03/Blog-Cover-3-1.jpg" width="700" alt="banner" />
 </p>
 
 <!-- Badges & Typing Animation -->
@@ -75,7 +75,7 @@ I’m an <b>AI and Computer Vision Engineer</b> passionate about turning ideas i
 ## 📫 How to Reach Me
 
 - ✉️ Email: **mahesh.mahi.cnd@gmail.com**
-- 💼 LinkedIn: [Mahesh Chandra](https://in.linkedin.com/in/mahesh-chandra-8433121a5)
+- 💼 LinkedIn: [Mahesh Chandra](https://in.linkedin.com/in//mahesh-chandra-63440a239)
 
 ---
 
