@@ -32,13 +32,16 @@ I’m an <b>AI and Computer Vision Engineer</b> passionate about turning ideas i
   - Object Detection
   - Image Classification
   - Tracking
-- 🧰 Prepare and annotate custom datasets using modern tools (LabelImg, Roboflow, CVAT)
-- 🧪 Test and deploy models in real-world scenarios
-- 🛠️ Integrate AI into real-time applications using OpenCV and Python
+    
+  - 🎯 **Train deep learning models** for object detection, classification, and tracking — including cutting-edge models like YOLOv8 and YOLOv11
+  - 🧰 **Prepare, clean, and annotate custom datasets** using tools like CVAT, LabelImg, and Roboflow
+  - 🧪 **Test and evaluate models using Python**, calculating metrics like precision, recall, F1-score, mAP, and generating visual reports
+  - 🛠️ **Deploy and benchmark models** in real-world, real-time environments using OpenCV and optimized inference pipelines
+
 
 ### 🧠 Interests & Tools
 
-- 💡 **Technologies**: PyTorch, TensorFlow, YOLOv8, OpenCV, MediaPipe, ONNX
+- 💡 **Technologies**: PyTorch, TensorFlow, YOLOv8,,YOLOv11, OpenCV, MediaPipe, ONNX
 - 📸 **Domains**: Computer Vision, Deep Learning, Edge AI
 - 🧪 **Testing**: Real-time inference, model optimization, dataset balancing
 
