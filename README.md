@@ -9,13 +9,22 @@
     alt="chandramahesh24"</p>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=Hi+there+%F0%9F%91%8BI+am+Mahesh+Chandra+;+Welcome+to+My+Profile!+;Always+learning+new+things" alt="Typing SVG" /></a>
 <h3 align="center"style="color: rgb(9, 9, 114)">
- A computer science student with a passion for coding and
-  technology. I'm constantly learning new programming languages and techniques,
-  and I love to work on projects that challenge me to think creatively. My goal
-  is to use my skills to create innovative and impactful solutions. In my free
-  time, you'll find me experimenting with different technologies or playing
-  around with new ideas. I'm always open to collaboration and mentorship
-  opportunities.
+👋 Hi, I’m an AI and Computer Vision practitioner passionate about building real-world, intelligent systems.
+
+🚀 What I Do:
+- 🎯 Train deep learning models for object detection, classification, and tracking
+- 🧰 Prepare and annotate custom datasets tailored for real-life applications
+- 🧪 Test and validate models in real-world scenarios to ensure reliability and performance
+
+🧠 Areas of Interest:
+- Computer Vision (YOLO, OpenCV, MediaPipe)
+- Deep Learning (PyTorch, TensorFlow)
+- Real-time AI solutions for smart environments
+
+🌍 I believe in bridging the gap between research and deployment by making AI systems practical, scalable, and reliable.
+
+🤝 I’m always open to collaborating on exciting machine learning and vision-based projects.
+
 </h3>
 <img
   align="right"
