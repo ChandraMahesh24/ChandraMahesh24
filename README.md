@@ -8,6 +8,12 @@
 
 <p align="center">
   <a href="https://chandramahesh24.github.io">
+    <img src="demo.svg" alt="Live demo: ROI monitor, ANPR pipeline, metrics lab" width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://chandramahesh24.github.io">
     <img src="https://img.shields.io/badge/%E2%96%B6%20Live%20Interactive%20Portfolio-Open-22d3ee?style=for-the-badge&labelColor=0b1822" alt="Live portfolio"/>
   </a>
 </p>
@@ -205,7 +211,7 @@ I care about what happens after training: camera position, image quality, prepro
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandramahesh24&hide_border=true&theme=tokyonight" width="60%" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=chandramahesh24&hide_border=true&theme=tokyonight" width="60%" alt="GitHub streak"/>
 </p>
 
 ---
