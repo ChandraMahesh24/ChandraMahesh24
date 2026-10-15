@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://chandramahesh24.github.io">
-    <img src="demo.svg" alt="Live demo: ROI monitor, ANPR pipeline, metrics lab" width="100%">
+    <img src="hero.svg" alt="Computer vision built for real cameras - live detection demo" width="100%">
   </a>
 </p>
 
@@ -16,6 +16,7 @@
 
 <p align="center">
   <b><a href="#-what-i-do">What I do</a></b> ·
+  <b><a href="#-more-demos">Demos</a></b> ·
   <b><a href="#-projects">Projects</a></b> ·
   <b><a href="#-how-i-build-models">How I build</a></b> ·
   <b><a href="#-tech-stack">Stack</a></b> ·
@@ -60,6 +61,25 @@ ONNX Runtime optimization, NVIDIA Jetson and RTSP / CCTV streams, with events an
 </td>
 </tr>
 </table>
+
+---
+
+## 🎬 More Demos
+
+<details open>
+<summary><b>ROI monitor · ANPR pipeline · Metrics lab</b></summary>
+
+<br>
+
+<p align="center">
+  <a href="https://chandramahesh24.github.io">
+    <img src="demo.svg" alt="ROI monitor, ANPR pipeline and metrics lab demo" width="100%">
+  </a>
+</p>
+
+<p align="center"><sub>Click the image to open the full interactive portfolio.</sub></p>
+
+</details>
 
 ---
 
